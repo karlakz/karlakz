@@ -14,6 +14,17 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 </p>
+
+### Badges
+
+<p><a href="https://www.credly.com/badges/2771522f-c308-46dc-93e2-384095228fb7" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/QBgTwhD.png" width="93" height="auto" alt="terraform" /></a>
+<a href="https://www.credly.com/badges/202c0ec0-8b1d-45cb-bffe-4750614a3276" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/q4RyYmH.png" width="93" height="auto" alt="waf" /></a>
+</p>
+
+### Certificates
+
+<p><a href="https://www.credly.com/badges/3286b7b5-c42e-4d0e-8e41-5ae273b3c060" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/W7dxWvV.png" width="93" height="auto" alt="itf+" /></a>
+</p>
                     
 ### Socials  
 <p align="left"><a href="https://www.github.com/karlakz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
